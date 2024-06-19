@@ -31,7 +31,7 @@ By using 5 TCRT5000 infrared tubs, I sense the presence of black lines and white
 
 Video Demonstration:
 ![Hardware Challenge 1](images/hardware-challenge-1.png)
-https://youtu.be/YxFP9dMudcE
+
 
 **Hardware Challenge #2 of AI for Robotics**</br>
 Make a Robot Drive in a Controlled Way
@@ -46,7 +46,7 @@ Now that the electronic parts were bought (Hardware Challenge #0), the sensors c
 
 Video Demonstration:
 ![Hardware Challenge 2](images/hardware-challenge-2.png)
-https://youtu.be/lya-ddb5DFg
+
 
 **Hardware Challenge #3 of AI for Robotics**</br>
 P-Controller for a Line-Follower Robot
@@ -65,4 +65,3 @@ The integral part and the derivative part of the PID controller were not require
 
 Video Demonstration:
 ![Hardware Challenge 3](images/hardware-challenge-3.png)
-https://youtu.be/DaOiyH9NtPE
